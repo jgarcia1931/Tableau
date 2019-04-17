@@ -3,7 +3,7 @@ Tableau and python
 
 This script allows you to create a .tde programatically using python and the Tableau SDK library
 
-The tde_object.py file is on improvement on the to_tde.py method.
+The tde_object.py file is an improvement on the to_tde.py method.
 This updated class allows you to convert a pandas DataFrame directly to a .tde file automatically.
 
 #### Steps:
