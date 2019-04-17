@@ -14,6 +14,7 @@ This updated class allows you to convert a pandas DataFrame directly to a .tde f
 * the tde file will be exported to the current directory.
 
 Example code:
+
 data = pd.read_csv('Book1.csv')
 x = tde_object.tde_object(data, "testing.tde")
 x.convert_to_strings(data=data)
